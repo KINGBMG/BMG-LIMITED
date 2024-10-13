@@ -6,16 +6,17 @@ SKILL HARVESRT ASSIGNMENT
     insight aimed at driving business decisions and improving market perfomance. 
 
 ### **TABLE OF CONTENTS**
-- BMG Limited Market performance comparison
-- BMG Limited Top 10 Store performance comparison
-- BMGNLimited Business line performance comparison
-- BMG limited sales volume overview
-- BMG Limited Data category Impact Analysis
-- BMG Limited Revenue Per Unit Analysis
-- BMG Limited Market Shares Distribution
-- BMG Limited Unit Sold Per Region
-- BMG Limmited Market Valuation Analysis
-- BMG Limited Model Performance Evaluation
+## [BMG LIMITED Performance Comparison](bmg-limited-performance-comparison)
+## [BMG LIMITED Performance Comparison]
+## BMG LIMITED BUSINESS LINE PERFORMANCE COMPARISON
+## BMG limited sales volume overview
+## BMG Limited Data category Impact Analysis
+## BMG Limited Revenue Per Unit Analysis
+## BMG Limited Market Shares Distribution
+## BMG Limited Unit Sold Per Region
+## BMG Limmited Market Valuation Analysis
+## BMG Limited Model Performance Evaluation
+
 
 ### **Project Analyses**
 
@@ -50,7 +51,7 @@ SKILL HARVESRT ASSIGNMENT
   2. Analyze the successful practices of top-performing stores to apply insights to lower-performing ones.
  
 
-### 3. **BMG LIMITED BUSINESS LINE PERFORMANCE COMPARISON**
+### 3. BMG LIMITED BUSINESS LINE PERFORMANCE COMPARISON
 
 ![Picture3](https://github.com/user-attachments/assets/b5ece543-1ab2-46f6-893e-5ca05eaff3ae)
 
