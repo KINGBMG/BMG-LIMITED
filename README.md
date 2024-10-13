@@ -6,8 +6,8 @@ SKILL HARVESRT ASSIGNMENT
     insight aimed at driving business decisions and improving market perfomance. 
 
 ### **TABLE OF CONTENTS**
-## [BMG LIMITED Performance Comparison](bmg-limited-performance-comparison)
-## [BMG LIMITED Performance Comparison]
+## BMG LIMITED Performance Comparison
+## BMG LIMITED Performance Comparison
 ## BMG LIMITED BUSINESS LINE PERFORMANCE COMPARISON
 ## BMG limited sales volume overview
 ## BMG Limited Data category Impact Analysis
